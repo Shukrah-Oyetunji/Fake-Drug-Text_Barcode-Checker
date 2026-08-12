@@ -70,8 +70,9 @@ Fake     — 20%
 ```
 
 ---
-## Machine Learning workflow
 
+## Machine Learning workflow
+```text
 Data Collection
       ↓
 Data Preparation
@@ -95,6 +96,8 @@ Hyperparameter Tuning
 Prediction Pipeline
       ↓
 Streamlit Application
+
+```
 ---
 ## Model Comparison
 Several Models were evaluated
@@ -127,6 +130,7 @@ streamlit run app.py
 ---
 ## Project Structure
 
+```text
 Fake Drug Barcode Checker/
 │
 ├── data/
@@ -149,7 +153,7 @@ Fake Drug Barcode Checker/
 ├── Updated_dataset.py
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## Installation
 
