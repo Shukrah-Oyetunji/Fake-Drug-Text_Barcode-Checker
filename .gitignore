@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+#  Large raw  dataset
+data/drug-ndc-0001-of-0001.json
