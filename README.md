@@ -177,3 +177,5 @@ Therefore, the model should not be used as the sole method for determining wheth
 - Real barcode
 - Improved model calibration and validation
 - Image-based packaging analysis
+
+**StreamLit Web Application:**  https://shukrah-oyetunji-fake-drug-text-barcode-checker-app-q5bgz2.streamlit.app/
